@@ -20,6 +20,11 @@ put your token telegrambot (that get @BotFather in telegram) in TOKEN variable
 ```python
 TOKEN = "your token"
 ```
+put your user id in telegram in admin_id variable 
+
+```python
+admin_id = "your telegram user id"
+```
 
 ### run your bot and get any instagram profile Picture
 
