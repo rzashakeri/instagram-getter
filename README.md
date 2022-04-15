@@ -26,6 +26,6 @@ put your user id in telegram in admin_id variable
 admin_id = "your telegram user id"
 ```
 
-### run your bot and get any instagram profile Picture
+### run your bot and  Download anything from Instagram 
 
 ## good luck 💙
